@@ -1,50 +1,33 @@
 
 <div align="center">
 
-# Mashaal Ishtiaq
+# Hi, I'm Mashaal Ishtiaq 👋
 
 ### Software Engineer | Artificial Intelligence & Machine Learning
 
-Developing intelligent applications and practical software solutions.
+I develop practical software applications and AI-powered solutions, with a focus on intelligent systems, reliable workflows, and user-focused design.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-BFA2DB?style=for-the-badge&logo=vercel&logoColor=16131D)](https://mashaalportfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BFA2DB?style=for-the-badge&logo=linkedin&logoColor=16131D)](https://www.linkedin.com/in/Mashaal-Ishtiaq/)
-[![Email](https://img.shields.io/badge/Email-E6DFF0?style=for-the-badge&logo=gmail&logoColor=16131D)](mailto:mashaal.ishtiaq8@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-BFA2DB?style=flat-square&logo=vercel&logoColor=16131D)](https://mashaalportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BFA2DB?style=flat-square&logo=linkedin&logoColor=16131D)](https://www.linkedin.com/in/Mashaal-Ishtiaq/)
+[![GitHub](https://img.shields.io/badge/GitHub-292431?style=flat-square&logo=github&logoColor=E6DFF0)](https://github.com/Mashaal-Ishtiaq)
+[![Email](https://img.shields.io/badge/Email-E6DFF0?style=flat-square&logo=gmail&logoColor=16131D)](mailto:mashaal.ishtiaq8@gmail.com)
+
 
 </div>
 
-
 ---
+
+
 
 ## 👩🏻‍💻 About Me
 
-- 🎓 Software Engineering graduate from FAST-NUCES.
-- 🧠 Interested in Artificial Intelligence, Machine Learning, and Computer Vision.
-- 💻 Experienced in Python development, data pipelines, model evaluation, and full-stack applications.
-- 🏆 Ranked **7th in Pakistan** at IEEExtreme 18.0.
-- 📚 Interested in building reliable software and exploring intelligent systems.
+- 🎓 **BS Software Engineering**, FAST National University, Peshawar (2022–2026).
+- 🧠 Interested in **AI, machine learning, computer vision**, and building real-world software products.
+- 💼 Experience as a **Teaching Assistant at FAST-NUCES** and in remote prompt engineering research, project management, and program operations.
+- 🏆 Ranked **7th in Pakistan and 661st globally** at IEEExtreme 18.0.
+- 🛠️ Work across Python development, data analysis, web applications, and software engineering fundamentals.
 
 ---
-
-## 💼 Experience
-
-### Prompt Engineering Research Intern
-**Excelerate** · Remote · July 2025 – August 2025
-
-- Designed and refined prompt sets for AI learning systems using structured NLP evaluation workflows.
-- Evaluated model behaviour through A/B experiments and documented findings and recommendations.
-
-### Project Management Intern
-**Excelerate** · Remote · July 2025 – August 2025
-
-- Developed project timelines, budgets, and Gantt charts for international initiatives.
-- Coordinated distributed teams and tracked project milestones.
-
-### Program Intern
-**GLOW Consultants (Pvt) Limited** · Remote · July 2025 – August 2025
-
-- Managed project documentation, reporting, and progress tracking.
-- Automated recurring reporting workflows to reduce manual effort.
 
 ---
 
@@ -52,23 +35,51 @@ Developing intelligent applications and practical software solutions.
 
 <div align="center">
 
+<br>
+
 ### Programming Languages
 
-[![Programming Languages](https://skillicons.dev/icons?i=python,c,cpp,java,rust,js,php&theme=dark)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,rust,js,php&theme=dark" alt="Programming Languages" />
+</p>
+
+<sub>Python · C · C++ · Java · Rust · JavaScript · PHP</sub>
+
+<br><br>
 
 ### AI, Machine Learning & Data
 
-[![AI and Data Tools](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="AI and Data Tools" />
+</p>
+
+<sub>PyTorch · TensorFlow · OpenCV · Scikit-learn</sub>
+
+<br><br>
 
 ### Web Development
 
-[![Web Development](https://skillicons.dev/icons?i=react,nodejs,flask,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,html,css,bootstrap&theme=dark" alt="Web Development" />
+</p>
+
+<sub>React · Node.js · Flask · HTML5 · CSS3 · Bootstrap</sub>
+
+<br><br>
 
 ### Databases & Tools
 
-[![Databases and Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,docker,kubernetes,git,github,linux,vscode&theme=dark)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,docker,kubernetes,git,github,linux,vscode&theme=dark" alt="Databases and Tools" />
+</p>
+
+<sub>PostgreSQL · MySQL · MongoDB · Redis · Prisma · Docker · Kubernetes · Git · GitHub · Linux · VS Code</sub>
+
+<br>
 
 </div>
+
+---
 
 ---
 
@@ -94,24 +105,30 @@ A full-stack restaurant management platform covering ordering, menu, and operati
 
 ---
 
-## 📊 Most Used Languages
 
-<div align="center">
+---
 
-<a href="https://github.com/Mashaal-Ishtiaq">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mashaal-Ishtiaq&layout=compact&langs_count=8&hide_border=true&bg_color=16131D&title_color=C9A7F2&text_color=E6DFF0" alt="Most Used Languages" />
-</a>
+## 💼 Experience
 
-</div>
+| Role | Organization | Period |
+|---|---|---|
+| Prompt Engineering Research Intern | Excelerate · Remote | July 2025 – August 2025 |
+| Project Management Intern | Excelerate · Remote | July 2025 – August 2025 |
+| Program Intern | GLOW Consultants (Pvt) Limited · Remote | July 2025 – August 2025 |
+
+**Highlights:** Prompt testing and A/B experiments · Project timelines and cross-functional coordination · Reporting and process improvement
+
+---
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 **IEEExtreme 18.0:** 7th in Pakistan, 661st globally.
-- 🥈 **FPSC Senior Speed Programming Competition:** Runner-up.
-- 🏅 **Trillet AI Hackathon:** 4th place.
-- 📜 **HackerRank:** Software Engineer Intern, Software Engineering, and SQL (Advanced) certifications.
+- 🥇 **IEEExtreme 18.0:** 7th in Pakistan · 661st globally
+- 🏅 **FPSC Senior Speed Programming Competition:** Runner-up
+- 🏆 **Trillet AI Hackathon:** 4th place
+- 📜 **HackerRank:** SQL (Advanced) · Software Engineering
+- 🤝 **Leadership & Community:** Student Ambassador, Shaukat Khanum · MLSA, FAST-NUCES · GDGoC, FAST Peshawar
 
 ---
 
@@ -120,7 +137,13 @@ A full-stack restaurant management platform covering ordering, menu, and operati
 <div align="center">
 
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-BFA2DB?style=flat-square&logo=linkedin&logoColor=16131D)](https://www.linkedin.com/in/Mashaal-Ishtiaq/)
-[![GitHub](https://img.shields.io/badge/GitHub-292431?style=flat-square&logo=github&logoColor=E6DFF0)](https://github.com/Mashaal-Ishtiaq)
+
+[Portfolio](https://mashaalportfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/Mashaal-Ishtiaq/) · [Email](mailto:mashaal.ishtiaq8@gmail.com)
+
+<br>
+
+Thanks for visiting my GitHub profile!
+
+</div>
 
 </div>
